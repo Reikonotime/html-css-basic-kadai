@@ -46,13 +46,13 @@ footer {
   background-color: rgb(244, 79, 79);
   text-align: center;
 }
-a {
+footer a {
   color: rgb(255, 255, 255);
 }
-a:visited {
+footer a:visited {
   color: rgb(193, 234, 251);
 }
-a:active {
+footer a:hover {
   color: rgb(245, 178, 168);
 }
 @media screen and (max-width: 768px) {
